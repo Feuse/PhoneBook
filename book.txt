@@ -1,0 +1,5 @@
+{"Name":"roman","Phone":"12120","Type":"Home"}
+{"Name":"sterlin","Phone":"0","Type":"Home"}
+{"Name":"newOne","Phone":"0000000","Type":"Work"}
+{"Name":"Yoskeli","Phone":"0","Type":"Work"}
+{'Name':'moshiko','Phone':'0','Type':'Home'}
